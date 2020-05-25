@@ -36,7 +36,7 @@ cmatrix
 还可输入参数控制颜色。
 
 ```shell
-cmatric -C red
+cmatrix -C red
 ```
 
 ![cmatrix红色字节流](https://upload-images.jianshu.io/upload_images/13714448-406fef5a59b0446e.gif?imageMogr2/auto-orient/strip)
